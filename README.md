@@ -1,2 +1,2 @@
 # BayesianNN_Y3
-Bayesian Neural Network regression on California Housing Dataset using MCMC
+Bayesian Neural Network regression on California Housing Dataset using MCMC and Variational Approximation
