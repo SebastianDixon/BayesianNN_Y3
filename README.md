@@ -10,6 +10,8 @@ computational efficiency, and real-world data applicability.
 
 # Dataset
 
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 I have chosen to use the California Housing prices dataset, designed for regression analysis of the
 median house price for California districts from the 1990 census. The housing market is a
 relatively volatile industry, and is quite dependent on demand and supply fluctuations, not to mention
